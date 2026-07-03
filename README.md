@@ -28,8 +28,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sanaiqbal-siqbal&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanaiqbal-siqbal&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-yourname.vercel.app/api?username=sanaiqbal-siqbal&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=sanaiqbal-siqbal&layout=compact&theme=radical&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
