@@ -14,9 +14,9 @@
 
 ### 🚀 About Me
 - 🔭 Currently working on things I can't show you *yet* — mostly in private repos 😉
-- 🌱 Learning: `add your current focus here`
-- 💬 Ask me about: `your strengths, e.g. Python, React, Data Analysis`
-- ⚡ Fun fact: `something personal`
+- 🌱 Learning: `AI agents`
+- 💬 Ask me about: `JavaScript, React js, Angular js, node js,Express js, PostgrSQL, mongoDB, Supabase, Groq AI, Next js , vue js, AWS (S3, EC2 ) , CI/CD , Production Deployment `
+- ⚡ Fun fact: `will tell you later.....`
 
 ### 🛠️ Tech Stack
 <p align="left">
