@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaiqbal-siqbal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanaiqbal-siqbal&theme=tokyonight&hide_border=true" />
 </p>
 ### ⚡ What I Do
 - Build full-stack products with **TypeScript, React, Vue.js, Node.js, Express, and MongoDB** [file:1].
