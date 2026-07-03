@@ -18,10 +18,10 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://ai-career-coach-khaki-delta.vercel.app/api?username=sanaiqbal-siqbal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <img src="https://ai-career-coach-khaki-delta.vercel.app/api/top-langs/?username=sanaiqbal-siqbal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanaiqbal-siqbal&theme=tokyonight&hide_border=true" />
 </p>
