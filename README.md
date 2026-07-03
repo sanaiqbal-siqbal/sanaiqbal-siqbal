@@ -1,25 +1,6 @@
 
-<h1 align="center">Hi, I'm Sana Iqbal 👋</h1>
 
-<p align="center">
-  <em>Building scalable web apps, AI-powered features, and reliable cloud systems.</em>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### About Me
-- Full-Stack Software Engineer
-- AI + Cloud Infrastructure builder
-- React, TypeScript, Vue.js, Node.js, FastAPI, Redis, AWS
 <h1 align="center">Hi, I'm Sana Iqbal 👋</h1>
 
 <p align="center">
@@ -37,6 +18,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+</p>
 ### ⚡ What I Do
 - Build full-stack products with **TypeScript, React, Vue.js, Node.js, Express, and MongoDB** [file:1].
 - Integrate **OpenAI APIs**, FastAPI endpoints, and AI-assisted workflows to improve developer productivity and product capability [file:1].
